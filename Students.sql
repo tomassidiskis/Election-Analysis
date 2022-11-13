@@ -1,3 +1,4 @@
+-- Data Engineering
 -- Creating a school database
 -- Analyzing its dataset to provide answers to relevant questions
 
