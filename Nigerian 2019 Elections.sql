@@ -2,10 +2,7 @@
 converted to a dataframe using Pandas library and cleaned. 
 
 Note that the datasets we have here contains data for only the top
-5 votes count in all states 
-
-Thank you
-*/
+5 votes count in all states */
 
 -- To select the schema we want to extract our data from
 USE nig_2019_elections;
