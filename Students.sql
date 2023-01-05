@@ -2,7 +2,6 @@
 -- Creating a school database
 -- Analyzing its dataset to provide answers to relevant questions
 
-
 CREATE DATABASE IF NOT EXISTS school;
 
 USE school;
@@ -332,17 +331,3 @@ FROM
 WHERE
     gender = 'F'
 ORDER BY first_name , last_name;
-
-
--- Thank you
-
-
-
-
-
-
-
-
-
-
-
