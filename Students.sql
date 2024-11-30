@@ -255,7 +255,8 @@ WHERE
     -- Which dormitory has the highest number of student occupants
     
    SELECT 
-    COUNT(s.stud_no) AS num_of_students_occupants, d.dorm_name
+    COUNT(s.stud_no) AS num_of_students_occupants,
+			d.dorm_name
 FROM
     students s
         JOIN
